@@ -1,0 +1,9 @@
+{
+  "name": "2021-dslab-remoting",
+  "version": "1.0.0",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.2.2",
+    "@grpc/proto-loader": "*",
+    "soap": "^0.36.0"
+  }
+}
